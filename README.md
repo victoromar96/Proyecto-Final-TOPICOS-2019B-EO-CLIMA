@@ -34,7 +34,7 @@ Desarrollar una app que consuma el API REST de una fuente de clima y muestre el 
 
 # DESARROLLO
 
-<br> • Informe detallado para el desarrollo de la aplicacion móvil
+<br> 
 <br> • En este link muestra los pasos para crear los servicios que sean necesarios y el desarrollo de la aplicación OpenWeather:
 <br> https://youtu.be/bhFbWmXulH8
 
