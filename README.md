@@ -10,27 +10,27 @@ Desarrollar una app que consuma el API REST de una fuente de clima y muestre el 
 
 # OBJETIVOS ESPECIFICOS 
 
-•	Definir la Arquitectura a utilizar
-•	Definir las herramientas utilizadas
-•	Definir la BDD
-•	Definir la Colección
-• Realizar la Conexion de la base de datos Firebase con el proyecto 
-• Obtener la Api del clima para consumir el servicio a utilizar 
-•	Insertar datos en la BDD 
-•	Visualizar los resultados obtenidos
-•	Desplegar la aplicación en el Hosting de Firebase
+#•	Definir la Arquitectura a utilizar
+#•	Definir las herramientas utilizadas
+#•	Definir la BDD
+#•	Definir la Colección
+#• Realizar la Conexion de la base de datos Firebase con el proyecto 
+#• Obtener la Api del clima para consumir el servicio a utilizar 
+#•	Insertar datos en la BDD 
+#•	Visualizar los resultados obtenidos
+#•	Desplegar la aplicación en el Hosting de Firebase
 
 # REQUISITOS
 
-Cuenta en Firebase 
-Cuenta en OpenWeatherMap 
-Instalar Ionic en Pc
+#Cuenta en Firebase 
+#Cuenta en OpenWeatherMap 
+#Instalar Ionic en Pc
 
 # HERRAMIENTAS UTILES 
 
-Node 
-Angular Cli
-VisualStudioCode o (otras herramientas de desarrollo)
+#Node 
+#Angular Cli
+#VisualStudioCode o (otras herramientas de desarrollo)
 
 # DESARROLLO
 
