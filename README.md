@@ -22,20 +22,20 @@ Desarrollar una app que consuma el API REST de una fuente de clima y muestre el 
 
 # REQUISITOS
 
-#Cuenta en Firebase 
-#Cuenta en OpenWeatherMap 
-#Instalar Ionic en Pc
+<br> • Cuenta en Firebase 
+<br> • Cuenta en OpenWeatherMap 
+<br> • Instalar Ionic en Pc
 
 # HERRAMIENTAS UTILES 
 
-#Node 
-#Angular Cli
-#VisualStudioCode o (otras herramientas de desarrollo)
+<br> • Node 
+<br> • Angular Cli
+<br> • VisualStudioCode o (otras herramientas de desarrollo)
 
 # DESARROLLO
 
-• Informe detallado para el desarrollo de la aplicacion móvil
-• En este link muestra los pasos para crear los servicios que sean necesarios y el desarrollo de la aplicación OpenWeather:
+<br> • Informe detallado para el desarrollo de la aplicacion móvil
+<br> • En este link muestra los pasos para crear los servicios que sean necesarios y el desarrollo de la aplicación OpenWeather:
 
 
 
