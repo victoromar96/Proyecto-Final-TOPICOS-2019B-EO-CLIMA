@@ -10,15 +10,15 @@ Desarrollar una app que consuma el API REST de una fuente de clima y muestre el 
 
 # OBJETIVOS ESPECIFICOS 
 
-#•	Definir la Arquitectura a utilizar
-#•	Definir las herramientas utilizadas
-#•	Definir la BDD
-#•	Definir la Colección
-#• Realizar la Conexion de la base de datos Firebase con el proyecto 
-#• Obtener la Api del clima para consumir el servicio a utilizar 
-#•	Insertar datos en la BDD 
-#•	Visualizar los resultados obtenidos
-#•	Desplegar la aplicación en el Hosting de Firebase
+<br>•	Definir la Arquitectura a utilizar
+<br>•	Definir las herramientas utilizadas
+<br>•	Definir la BDD
+<br>•	Definir la Colección
+<br>• Realizar la Conexion de la base de datos Firebase con el proyecto 
+<br>• Obtener la Api del clima para consumir el servicio a utilizar 
+<br>•	Insertar datos en la BDD 
+<br> •	Visualizar los resultados obtenidos
+<br> •	Desplegar la aplicación en el Hosting de Firebase
 
 # REQUISITOS
 
